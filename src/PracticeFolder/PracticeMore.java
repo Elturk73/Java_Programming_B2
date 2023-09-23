@@ -42,6 +42,8 @@ public class PracticeMore {
         System.out.println(chr);
         System.out.println(result3);
 
+
+
     }
 
 }
