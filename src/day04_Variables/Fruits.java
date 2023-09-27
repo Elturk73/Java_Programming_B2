@@ -8,8 +8,8 @@ public class Fruits {
   //      int bananas = 150;
 //
         int apples = 50, grapes = 100, bananas = 150;
-
-        System.out.println("This is how many apples we have: " + apples);
+        int numApple = apples;
+        System.out.println("This is how many apples we have: " + numApple);
 
         //int  apples = 50, grapes = 100, bananas = 150; //-- > You can declare in this way as well if all these THREE variables have SAME DATA TYPE
 
@@ -27,7 +27,7 @@ public class Fruits {
 
         int price = 150;
         System.out.println("The price of my 30 apple is 150"); // Hard coded.
-        System.out.println("The price of my " + apples + " apple is " + price);  // Dynamic
+        System.out.println("The price of my " + apples + " apple is $" + price);  // Dynamic
 
         System.out.println(apples);
 

@@ -36,15 +36,6 @@ public class CellPhone {
         System.out.println();
         System.out.println(fullMessage);
 
-
-
-
-
-
-
-
-
     }
-
 
 }

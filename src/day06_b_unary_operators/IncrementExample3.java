@@ -17,12 +17,5 @@ public class IncrementExample3 {
         int c = ++a; // a = a + 1; a = 11;
         System.out.println(c); //
         System.out.println(a); //
-
-
-
-
-
-
-
     }
 }

@@ -9,7 +9,7 @@ public class NameConven {
         //int public = 5;
         //double static = 4.5;
         //boolean class = true;
-        //int int = 6;
+        // int = 6;
         //int abstract = 6;
 
         int number4 = 4;

@@ -19,10 +19,6 @@ public class Store {
         System.out.println("First person has returned a TV");
         System.out.println("Number of TV now: " + ++numOfTv);
 
-
-
-
-
     }
 
 }

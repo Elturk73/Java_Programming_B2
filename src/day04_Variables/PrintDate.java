@@ -14,7 +14,7 @@ public class PrintDate {
         int day = 7; // starting numbers with 0 will not print 0.
         int year = 2023;
         // int month, day, year;
-
+        System.out.println(month + "/" + day + "/" + year);
         System.out.println(month + "/" + day + "/" +  year);
         System.out.println(month + "." + day + "." +  year);
         System.out.println(month + "-" + day + "-" +  year);

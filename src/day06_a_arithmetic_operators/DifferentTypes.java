@@ -16,7 +16,6 @@ package day06_a_arithmetic_operators;
             System.out.println(10.0 / 5.0);
             System.out.println();
 
-
             System.out.println( 10.0 / 5);
             System.out.println( (int)10.0 / 5);
             System.out.println( (double)10 / 5);

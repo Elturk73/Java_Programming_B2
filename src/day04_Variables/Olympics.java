@@ -19,8 +19,8 @@ public class Olympics {
 
      */
     public static void main(String[] args) {
-        int year;
 
+        int year;
         System.out.println("The Olympics will be in these locations for the coming years:");
 
         year = 2022;

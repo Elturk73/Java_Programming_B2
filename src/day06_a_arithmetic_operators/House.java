@@ -30,13 +30,7 @@ create a main method
 
         String result = "The " + houseType + " on " + address + ", " + zipcode + " costs $" + price + ". \nThe " + houseType + " has " + numberOfBedroom + " bedrooms, has " + numberOfBathroom + " bathrooms, and has " + numberOfKitchen + " kitchen. \nIt also includes a basement: " + hasBasement + ", has an attic: " + hasAttic + " and, has a park: " + hasPark + ", is on sale: " + isOnSale + "\nThe schools in the area have a rating of " + rating;
 
-
         System.out.println(result);
-
-
-
     }
-
-
 
 }
